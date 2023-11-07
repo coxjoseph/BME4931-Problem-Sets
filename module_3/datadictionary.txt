@@ -1,0 +1,13 @@
+The data for Module 3's programming tutorial is saved as a Comma Separated Values (.csv) file. These types of files are very similar to excel files, but function better across different systems, do not require the installation of excel to view or edit, and are easier to work with in code.
+
+The coronary_heart_disease.csv file contains 10 columns.
+- id: a unique, deidentified ID number for each patient
+- bmi: Conventional body-mass index. It is calculated as weight (kg) / height(m)^2
+- smoking: True if the patient reported smoking habits, False if they did not
+- exercise: Data sourced from a patient survey, where patients were asked to rate their level of daily exercise on a scale from 1 (none at all) to 7 (very high amount).
+- sex: 0 if patient was AFAB, 1 if patient was AMAB
+- c_prot: Blood concentration levels of c-reactive protein (mg/dL)
+- amyl_prot: Blood serum albumin/globulin protein levels (g/dL)
+- wbc: White blood cell count in 1 microliter of blood
+- rbc: Red blood cell count in 1 microliter of blood
+- coronary_heart_disease: Whether or not the patient had coronary heart disease
