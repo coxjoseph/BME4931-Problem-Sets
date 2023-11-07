@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 *.zip
 bonus/data/*.txt
+module_10/data/*.json
