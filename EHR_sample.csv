@@ -1,0 +1,8 @@
+Sample EHR Data from Totally Real Hospital (TRH),,,,,
+Data from day of 09/01/2023,,,,,
+Patient Age,blood_pressure,height,weight,temperature,physician_notes
+24,132/76,,178 lbs,97,Patient presenting with sharp lower back pain and reported unusual diet. Patient refused standing up for height measurement – previously measured at 72 inches. Referred to PT.
+07/22/00,115/62,71,83 kg,98.3,"Patient complaining of sore throat, tested positive for strep throat. Prescribed penicillin."
+43,121/82,65,190 lbs,101.8,Patient presenting with high fever and lack of diet. Negative tests for flu and strep. Ordered bloodwork.
+18,0/0,66,145 lbs,97.5,Patient reports feeling ‘tired’ and having consistently low energy. Presents with low mood and effect. Articulation coherent.    Presenting with minor headache. BP 120/80.
+01/18/72,140/85,60,68 kg,,Routine checkup – nothing abnormal. 
