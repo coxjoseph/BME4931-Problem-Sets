@@ -1,4 +1,4 @@
 .ipynb_checkpoints
 *.zip
 bonus/data/*.txt
-module_10/data/*.json
+Module 10: Recurrent Neural Networks/data/*.json
