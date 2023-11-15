@@ -18,8 +18,8 @@ Modules are categorized by numbers ranging from 02 to 13*. Each module directory
 
 - **Module 02: Python Primer**: Tutorial content***
 - **Module 03: Biomedical Data**: Tutorial content***
-- **Module 04: Module Title**
-- **Module 05: Module Title**
+- **Module 04: Data Wrangling**
+- **Module 05: Machine Learning Basics**
 - ...
 - **Module 13: Dimensionality Reduction**
 
